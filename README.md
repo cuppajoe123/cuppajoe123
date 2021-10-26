@@ -1,5 +1,5 @@
-website: cuppajoe.xyz
+website: https://cuppajoe.xyz
 
-git: git.cuppajoe.xyz
+git: https://git.cuppajoe.xyz
 
 email: cuppajava@tutanota.com
