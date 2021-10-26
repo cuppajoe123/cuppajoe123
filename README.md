@@ -1,4 +1,4 @@
-website: cuppajoe.xzy
+website: cuppajoe.xyz
 
 git: git.cuppajoe.xyz
 
