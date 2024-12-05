@@ -1,5 +1,1 @@
-website: https://cuppajoe.xyz
-
-git: https://git.cuppajoe.xyz
-
-email: cuppajava@tutanota.com
+email: jstrau9@lsu.edu
